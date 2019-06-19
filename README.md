@@ -8,7 +8,7 @@ A very simple 'Todo Application' using Laravel
 1.0.0
 
 ## Database
-The sql dump is in 
+The sql dump is in: /laravel.sql
 
 ## Docs
 1. An 'admin' can create new tasks and assigned it to the user from 'backend'
