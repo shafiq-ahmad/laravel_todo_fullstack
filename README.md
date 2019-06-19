@@ -1,8 +1,8 @@
 
 # laravel_todo_fullstack
 A very simple 'Todo Application' using Laravel
--- Backend: An admin panel (Creating and Adding Todos)
--- Frontend: User panel (a login user can view his todos mark one he finished)
+1. Backend: An admin panel (Creating and Adding Todos)
+2. Frontend: User panel (a login user can view his todos mark one he finished)
 
 ## Version
 1.0.0
